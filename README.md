@@ -1,7 +1,7 @@
 # Ionic 2 Tut
 An Ionic 2 tutorial application based on the supermodular2 starter application .
 
-* Project's Home: https://github.com/skounis/supermodular2
+* Supermodular2's Home: https://github.com/skounis/supermodular2
 
 > Need more? Don't miss [Barebone Ionic 2](http://appseed.io/barebone-ionic-2), The Swiss Arny Knife of Ionic2!
 
