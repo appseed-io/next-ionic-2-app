@@ -1,5 +1,5 @@
 {
-  "name": "ionic-hello-world",
+  "name": "nextionic2app",
   "author": "Ionic Framework",
   "homepage": "http://ionicframework.com/",
   "private": true,
@@ -55,5 +55,5 @@
       "locator": "ios"
     }
   ],
-  "description": "Ionic 2 tut: An Ionic project"
+  "description": "Next Ionic 2 app: An Ionic project"
 }

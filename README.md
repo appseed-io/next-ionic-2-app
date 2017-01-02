@@ -1,4 +1,4 @@
-# Ionic 2 Tut
+# Next Ionic 2 app
 An Ionic 2 tutorial application based on the supermodular2 starter application .
 
 * Supermodular2's Home: https://github.com/skounis/supermodular2
