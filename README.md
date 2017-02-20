@@ -1,5 +1,5 @@
 # Next Ionic 2 app
-An Ionic 2 tutorial application based on the supermodular2 starter application .
+An Ionic 2 application based on the supermodular2 starter application. This project is the source code of a tutorial on how to Create your Next Ionic 2 App, originally published at http://appseed.io/node/69.
 
 * Supermodular2's Home: https://github.com/skounis/supermodular2
 
